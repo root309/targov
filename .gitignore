@@ -1,0 +1,32 @@
+.env
+targov
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go build command
+/bin/
+/pkg/
+
+# Dependency directories (remove the comment below if you want to ignore them)
+# /vendor/
+
+# IDEs and editors
+.vscode/
+*.swp
+*.swo
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
