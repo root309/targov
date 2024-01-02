@@ -72,7 +72,7 @@ func main() {
 	}
 
 	fmt.Println("Bot is now running. Press CTRL+C to exit.")
-	select {} Waiting in an infinite loop
+	select {} // Waiting in an infinite loop
 }
 
 // getPriceOfItem - Function to get the price of a given item
